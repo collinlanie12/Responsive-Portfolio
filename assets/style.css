@@ -43,40 +43,31 @@ h1{
     height: 200px;
     width: 500px;
 }
-@include media-breakpoint-up(xs) { 
+
+
+
+@media (min-width: 576px) { 
     .container{
-        display: block;
-        width: 1000px;
-    }
-}
-@include media-breakpoint-up(sm) {
-    .container{
-        display: block;
-        width: 1000px;
-    }
-}
-@include media-breakpoint-up(md) {
-    .container{
-        display: block;
-        width: 1000px;
-    }
-}
-@include media-breakpoint-up(lg) {
-    .container{
-        display: block;
-        width: 1000px;
-    }
-}
-@include media-breakpoint-up(xl) {
-    .container{
-        display: block;
-        width: 1000px;
+        width: auto;
     }
 }
 
 
-/* @include media-breakpoint-up(sm) {
-  .some-class {
-    display: block;
-  }
-} */
+@media (min-width: 768px) { 
+    .container{
+        width: auto;
+    }
+}
+
+
+@media (min-width: 992px) { 
+    .container{
+        width: auto;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container{
+        width: auto;
+    }
+}

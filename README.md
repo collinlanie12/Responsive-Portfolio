@@ -1,13 +1,54 @@
-# Responsive-Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Task To Be Completed:
-- [x] A navbar.
-- [x] A responsive layout.
-- [x] Responsive images.
-- [x] Functional, deployed application.
-- [x] Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
-- [x] All links must work.
-- [x] Must use semantic html.
-- [x] Each page must have valid and correct HTML. (use a validation service)
-- [x] Must contain your personalized information. (bio, name, images, links to social media, etc.)
-- [x] Must properly utilize Bootstrap components and grid system.
+# Table of Contents
+* [Title](#title)
+* [Description](#description)
+* [Usage](#use)
+* [Contributors](#contributors)
+* [Contact](#info)
+* [License](#license)
+
+# Responsive-Portfolio <a name="title"></a>
+
+## Description: <a name="description"></a>
+
+This is my personal portfolio.
+
+My Portfolio: [Portfolio Website](https://collinlanie12.github.io/Responsive-Portfolio/)
+
+## Usage: <a name="use"></a>
+
+To learn more about me and see my projects.
+
+## Contributors: <a name="contributors"></a>
+
+Collin Lanier
+
+## Questions: <a name="info"></a>
+
+My Github is: [collinlanie12](https://github.com/collinlanie12) :octocat:
+
+You can reach me at:  collinlanier12@gmail.com
+## License: <a name="license"></a>
+
+MIT License
+
+Copyright (c) 2020 Collin Lanier
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

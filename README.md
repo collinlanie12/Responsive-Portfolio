@@ -1,5 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# Responsive-Portfolio <a name="title"></a>
+
 # Table of Contents
 * [Title](#title)
 * [Description](#description)
@@ -7,8 +9,6 @@
 * [Contributors](#contributors)
 * [Contact](#info)
 * [License](#license)
-
-# Responsive-Portfolio <a name="title"></a>
 
 ## Description: <a name="description"></a>
 
